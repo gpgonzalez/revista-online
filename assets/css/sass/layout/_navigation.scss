@@ -1,0 +1,31 @@
+.contenido {
+    width: 100%;
+    padding: 2.5em;
+    border-bottom: 1px solid gray;
+    display: inline-block;
+  }
+  .logo {
+    width: 20%;
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: left;
+  }
+  
+  ul#contenido-lista li {
+    display: inline;
+    float: right;
+  }
+  
+  .contenido-nav-con {
+    margin: 0.5em;
+  }
+  
+  .contenido-nav-nos {
+    margin: 0.5em;
+  }
+  
+  .buscar {
+    display: inline-block;
+    border-radius: 30px;
+  }
